@@ -18,7 +18,7 @@ This is a project for educational purpose cloning the booking site... the idea o
 - Next.js
 - Tailwind
 - Shadcn
-- Tailwind
+- Typescript
 - Scrape data with Oxylabs
 
 ## Getting Started
